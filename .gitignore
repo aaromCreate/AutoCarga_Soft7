@@ -1,0 +1,9 @@
+# Dependencias de Composer 
+/vendor/
+
+# Archivos de entorno 
+.env
+.env.local
+
+# Logs y temporales
+*.log
